@@ -1,0 +1,15 @@
+azure-search-documents==11.5.3
+azure-core==1.35.1
+openai==2.2.0
+PyPDF2==3.0.1
+fastapi==0.118.2
+uvicorn==0.37.0
+python-dotenv==1.1.1
+python-multipart==0.0.20
+cffi==2.0.0 
+cryptography==46.0.2 
+pdfminer.six==20250506 
+pycparser==2.23 
+azure-ai-documentintelligence==1.0.2
+pypdfium2==5.0.0
+reportlab==4.4.4
